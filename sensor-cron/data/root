@@ -1,0 +1,1 @@
+* * * * * /home/fluent/data/execute_create_sensor_data.sh >> /var/log/sensor_data/sensor_data.log
